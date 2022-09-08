@@ -6,7 +6,7 @@ For now I'm going to mark this repo as active as I try to find a solution to hos
 Digital Ocean Dynamic DNS-Updater
 Purpose:
 
-As I'm not the only one in search of such Script (spoftware package) I invite you all to cotribute ;)
+As I'm not the only one in search of such Script (spoftware package) I invite you all to cotribute ;)  .  
 Allows the dynamic updating of an 'A' or 'AAAA' record that is managed by Digital Ocean's DNS servers.
 
 Notice that The DNS script may differ dipending on the DNS provider.
